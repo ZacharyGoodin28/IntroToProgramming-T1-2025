@@ -26,3 +26,10 @@ SCREAMING_SNAKE_CASE = False
 # 1. Concise
 #  -
 
+num = input("What number do you want to square\n>")
+
+#Parse (convert) the string to an interger
+num = int(num)
+
+#Do math and print
+print(num * num)
