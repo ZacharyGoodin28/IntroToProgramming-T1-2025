@@ -14,3 +14,8 @@ print("You have")
 print(oxygen_tanks + " Oxygen tanks")
 print(food_packs + " Food packs")
 print(water_packs + " Water packs")
+
+'''
+start line
+everything between this is a comment
+'''
