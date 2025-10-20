@@ -4,7 +4,7 @@ def add_three(a, b, c):
 
 add_three(input("Enter the first number you want to add\n>"), input("Enter the second number you want to add\n>"), input("Enter the third number you want to add\n>"))
 
-def data_three(1, 2, 3):
+def data_three(1, 2, 3)
     print(int(1) + (int(2) + int(3)))
 
 
